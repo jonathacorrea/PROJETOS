@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* Top News Start */
+.topbar-right .news-bg {
+	background:#970000;
+}
+/* Top News End */
+
+
+
+/* Text Color Start */
+.color, .btabs .nav-tabs > .active > a, .btabs .nav-tabs > .active > a:hover, .btabs .nav-tabs > .active > a:focus, .upcomming-event .ev-details a, .about-text .services li i, .about-rj h4, .about-rj a, .twitter-updates a, .content-slider .cs-content p a, .ser-list .icon, .shipping-calculator-button, .search h2 {
+	color: #970000;
+}
+/* Text Color End */
+
+
+/* Nav Color Start */
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus, .navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus, .navbar-inverse .nav > li > a:focus, .navbar-inverse .nav > li > a:hover {
+	border-top: 2px solid #970000;
+	color: #970000 !important;
+}
+
+/* Nav Color end */
+
+
+/* Fan Review Start */
+.fan-reviews .fans-text:before, .fan-reviews .fans-text:hover:before {
+	border-top: 28px solid #970000;
+}
+
+/* Fan Review End */
+
+
+
+/* border color Start */
+.about-events li, .fbor, .subpage-title-bg, .events-wrapper .events .buy, .events-wrapper .events .map, .blog-main-image {
+	border-color: #970000;
+}
+/* border color end */
+
+
+/* Background color Start */
+.bg, .ln-block .top_half, .ln-block .bottom_half, .footer .footer-1stleft .take-tour, div.jp-play-bar, .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a, .ev-img:hover .slide-caption, .ev-img .caption, .ab-icons li:hover, .cs-image span, .mab-bg .list, .sidebar-search .search-button, .booking-slider .booking-button, .more, .ev-list .ev-details .book-now, .take-tour, .cbtn, .checkout_btn, .button, .p404 button, .buy, .btns, .contact input.btns, .buy-btn, .buy-btn:before, .gallery-nav li a:hover, .blog-paging li a.active, .events-wrapper .events .buy1, .blog-user .month, .acc_container .img span {
+	background: #970000 !important;
+}
+
+/* Background color End */
+
+/* According color Start */
+
+h2.acc_trigger, h3.acc_trigger {
+	background:#141414;
+}
+
+h2.acc_trigger:before, h3.acc_trigger:before {
+	  content: "\f106";
+	  float:right;
+	  font-family: 'FontAwesome';
+	  margin-right:20px;
+	}
+
+h2.active, h3.active {
+	background-position: right bottom;
+	background:#970000;
+}
+
+h2.active:before, h3.active:before {
+	  content: "\f107";
+	  float:right;
+	  font-family: 'FontAwesome';
+	  margin-right:20px;
+}
+
+/* According color End */
+
+
+.fans-text:before {
+	border-top: 28px solid #970000;
+}
+.pbg_ping {
+	border-top: solid 3px #970000;
+}
+.slider-curve {
+	background: url(../images/header-curve.png) no-repeat right bottom;
+}
+.footer_curve {
+	background-image: url(../images/footer-curve.png);
+}
+.f-add .icon-map-marker {
+	color: #FFF;
+	background: #970000;
+	padding: 8px 12px;
+	font-size: 18px;
+	margin-right: 10px;
+}

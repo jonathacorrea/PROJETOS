@@ -1,0 +1,1195 @@
+@media only screen and (min-width : 1200px) and (max-width : 1440px) {
+body {
+	overflow-x: hidden
+}
+.slider-curve .curve-col-1 {
+	width: 25%;
+}
+.slider-curve .curve-col-2 {
+	width: 51%;
+}
+.tagline {
+	margin-top: 80px;
+}
+.tagline2 {
+	font-size: 14px;
+	margin-top: 70px;
+	display:none;
+}
+.main-slider .bx-wrapper .bx-controls-direction a {
+	top: 78% !important
+}
+}
+ @media only screen and (min-width : 1441px) and (max-width : 1700px) {
+.slider-curve .curve-col-1 {
+	width: 20%;
+}
+.slider-curve .curve-col-2 {
+	width: 54%;
+}
+.slider-curve .curve-col-3 {
+	width: 26%;
+}
+.tagline2 {
+	font-size: 16px;
+	display:none;
+}
+}
+
+
+/*
+=======================================================
+
+Responsive Custom CSS Start 1100 to 1199
+
+=======================================================
+*/
+
+@media (min-width: 1101px) and (max-width: 1199px) {
+
+.tagline2 {
+	display: none
+}
+
+}
+
+
+
+
+/*
+=======================================================
+
+Responsive Custom CSS Start 980 to 1100
+
+=======================================================
+*/
+
+
+@media (min-width: 980px) and (max-width: 1100px) {
+.container {
+	width: 940x
+}
+.tagline, .tagline2 {
+	display: none
+}
+.topbar-right .news-bg .news-title {
+	font-size: 12px;
+}
+.navbar .nav > li > a {
+	padding: 10px !important
+}
+.speaker {
+	margin-top: 45px
+}
+.slider-curve .curve-col-3 {
+	width: 30%
+}
+.main-slider .bx-wrapper .bx-controls-direction a {
+	top: 76% !important
+}
+.booking-text h2, .booking-text h3, .booking-slider h2 {
+	font-size: 25px;
+}
+.booking-slider .price {
+	margin-left: 10px;
+}
+.booking-text p {
+	margin-right: 10px;
+}
+.club-timing .cl-details p, .club-timing .cl-details-boxed p, .show-timing-bg .cl-details p, .show-timing-bg .cl-details-boxed p {
+	font-size: 14px;
+	line-height: 22px;
+}
+.club-timing .cl-details .more, .club-timing .cl-details-boxed .more, .show-timing-bg .cl-details .more, .show-timing-bg .cl-details-boxed .more {
+	margin-right: -19px;
+}
+.latest-news .social-icons {
+	display: none
+}
+.latest-news ul.ln-inner li {
+	padding: 8px;
+}
+.ln-inner .stitle {
+	font-size: 13px;
+}
+.ln-inner .ititle {
+	font-size: 19px;
+}
+.ln-hover_info .icon-phone, .ln-hover_info .icon-comments, .ln-hover_info .icon-envelope-alt {
+	font-size: 30px;
+}
+.fa-gallery li, .fa-gallery-boxed li {
+	width: 30%
+}
+.nav-tabs > li > a {
+	padding: 10px 13px !important
+}
+div.jp-audio ul.jp-controls {
+	width: 15% !important
+}
+div.jp-audio div.jp-type-single div.jp-progress {
+	left: 13% !important;
+	width: 80% !important
+}
+
+.sidebar-search .search {width:166px;}
+
+
+.slide-text, .music-player-top div.jp-title, .music-player-top div.jp-playlist {display:none}
+
+.music-player-top div.jp-audio ul.jp-controls {width:30% !important}
+.music-player-top div.jp-audio div.jp-type-single div.jp-progress {left:30% !important; width:45% !important}
+.music-player-top div.jp-current-time, .music-player-top .jp-duration {margin:0px !important; margin-top:0px !important; }
+
+.hplayer-bg {right:0px;}
+
+.jcarousel-skin {width:575px;}
+
+.player-holder .music-player-top {width:60% !important}
+.music-player-top div.jp-audio div.jp-type-single div.jp-progress {width:70% !important} 
+
+
+
+}
+ @media (min-width: 768px) and (max-width: 979px) {
+.nav-holder {
+	z-index: 9999;
+	z-index: 9999;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-top: 10px !important;
+}
+.nav-collapse .nav {
+	width: 190px;
+}
+.nav-collapse .nav > li {
+	background: rgba(0,0,0,0.9)
+}
+#logo img {
+	width: 90%;
+}
+
+.subpage-title-bg .twitter-updates {display:none}
+
+.sidebar-search .search {width:114px;}
+
+
+.headtabs {
+	clear: both
+}
+.tracks-album li {
+	margin-right: 0px;
+}
+.tracks-album li strong {
+	font-size: 11px;
+}
+.tracks-album li img {
+	width: 100%
+}
+.video-container #bx-pager .icon-play-circle {
+	top: 5% !important
+}
+.tracks-album li:nth-child(1) {
+	width: 40px;
+	vertical-align: top;
+}
+.tracks-album li p {
+	font-size: 11px;
+	line-height: 10px;
+}
+.tracks-album li strong {
+	font-size: 10px;
+}
+.tracks-album li:nth-child(3) {
+	display: none
+}
+.mtop {
+	margin-top: 20px;
+}
+.home_wrapper #header {
+	position: relative
+}
+.slider-curve, .footer_curve, .slider-curve-boxed {
+	display: none
+}
+.topbar-right .news-bg {
+	line-height: 35px;
+}
+.topbar-right .news-bg .news {
+	margin: 0 0 0 20px;
+}
+.topbar-right .news-bg .news-title {
+	width: auto
+}
+.span9.topbar-right {
+	width: 65% !important
+}
+.ln-events-information h2 {
+	font-size: 17px !important;
+}
+.ln-events-information .span7 {
+	width: 100% !important
+}
+.ln-events-information .span5.fans {
+	width: 100% !important;
+	margin: 0 auto;
+}
+.booking-text {
+	padding-top: 10px;
+}
+.booking-text h2, .booking-text h3 {
+	font-size: 14px;
+}
+.booking-img > img {
+	display: none
+}
+.schedule .span9 {
+	width: 63% !important;
+}
+.schedule .span3 {
+	width: 37% !important;
+	margin-left: 0px !important
+}
+.booking-slider h2 {
+	font-size: 20px !important;
+	line-height: 20px;
+}
+.booking-slider .price {
+	margin-left: 0px;
+}
+.schedule-date-bg {
+	padding-bottom: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.booking-slider {
+	padding-bottom: 46px;
+}
+.latest-news .social-icons {
+	display: none
+}
+.latest-news ul.ln-inner li {
+	padding: 10px 0 10px 0px
+}
+.latest-news ul.ln-inner li:nth-child(1) {
+	width: 50px;
+	margin-right: 12px;
+}
+.latest-news img {
+	width: 80%;
+	margin-left: 4px;
+}
+.ln-inner .ititle {
+	font-size: 14px;
+}
+.ln-inner .stitle {
+	font-size: 10px;
+}
+.ln-hover_info .icon-phone, .ln-hover_info .icon-comments, .ln-hover_info .icon-envelope-alt {
+	font-size: 25px;
+	margin: 0 10px;
+}
+.club-timing .cl-details h2, .club-timing .cl-details-boxed h2, .show-timing-bg .cl-details h2, .show-timing-bg .cl-details-boxed h2 {
+	line-height: 20px;
+}
+.club-timing .cl-details p, .club-timing .cl-details-boxed p, .show-timing-bg .cl-details p, .show-timing-bg .cl-details-boxed p {
+	font-size: 12px;
+	line-height: 25px;
+}
+.club-timing .cl-details .more, .club-timing .cl-details-boxed .more, .show-timing-bg .cl-details .more, .show-timing-bg .cl-details-boxed .more {
+	padding: 5px;
+	margin-right: -12px;
+}
+.club-timing .cl-image {
+	width: 50%
+}
+.club-timing .cl-details, .club-timing .cl-details-boxed {
+	width: 45%;
+	padding: 2.5%;
+}
+.event-month h2, .event-counter h2 {
+	font-size: 18px
+}
+.hasCountdown {
+	font-size: 12px;
+}
+.ev-list .ev-details strong, .ev-list .ev-date {
+	font-size: 11px;
+}
+.view-event a {
+	line-height: 20px;
+}
+.upcomming-event .ev-img {
+	width: 25% !important
+}
+.upcomming-event .ev-img .date {
+	padding: 5px;
+	width: 45%;
+}
+.upcomming-event .ev-img .date strong {
+	font-size: 20px;
+}
+.upcomming-event .ev-details {
+	padding: 20px 10px 10px;
+	width: 68%;
+}
+.fa-gallery li img, .fa-gallery-boxed li img {
+	width: 100%
+}
+.fa-gallery li, .fa-gallery-boxed li {
+	width: 30%
+}
+.nav-tabs > li > a {
+	padding: 10px 6px !important;
+	font-size: 13px;
+}
+div.jp-audio ul.jp-controls {
+	width: 15% !important
+}
+div.jp-audio div.jp-type-single div.jp-progress {
+	width: 80% !important;
+	left: 17% !important
+}
+.footer {
+	padding-bottom: 0px
+}
+.footer .location, .footer-light .location {
+	padding: 5px 35px 58px 26px
+}
+.footer .location .lc-left, .footer-light .location .lc-left {
+	width: 100%;
+	padding-top: 0px;
+}
+
+/*About*/
+
+.mab-bg h2 { font-size:20px}
+.mab-bg .list {display:none}
+.mab-bg div.jp-controls-holder {left:0px;}
+.mab-bg div.jp-video div.jp-type-playlist ul.jp-controls {margin-left:30px; margin-top:35px;}
+.top-rj .social-icons {display:none !important;}
+
+.top-rj .social-icons {display:none}
+.ser-buy .bx-wrapper .bx-controls-direction a {top:103% !important}
+.top-rj .rj-text {font-size:12px; line-height:18px;}
+.top-rj .rj-image {
+    margin-right: 3%;
+    width: 20%;
+}
+
+/*Search*/
+.search .search-holder {max-width:100%}
+.search .search-holder .sb {margin:2px}
+
+/*Album*/
+.tracks-list li {padding:5px; font-size:14px;}
+.tracks-list .btn-t { padding:0 5px}
+.tracks-list li ul li {margin-right:4px;}
+.tracks-list .btn-t {font-size:10px}
+.tracks-list .i {font-size:18px;}
+
+
+/*Blog*/
+.blog-post-title h2 {line-height:25px;}
+.blog-user, .blog-item .blog-user {width:13%}
+.blog-post-text, .blog-post-icons, .blog-item .blog-post-text {margin:0px; width:80%; margin-left:10px;}
+.blog-item .blog-post-icons {width:100%}
+
+.blog-post-icons li {margin-right:40px;}
+.blog-mplayer div.jp-current-time, div.jp-duration {display:none}
+
+/*Cart*/
+.cart_table_item .product-quantity, .cart-top-bg .product-quantity {display:none}
+
+
+.slide-text, .music-player-top div.jp-title, .music-player-top div.jp-playlist {display:none}
+
+.music-player-top div.jp-audio ul.jp-controls {width:30% !important}
+.music-player-top div.jp-audio div.jp-type-single div.jp-progress {left:30% !important; width:45% !important}
+.music-player-top div.jp-current-time {margin-left:35% !important; margin-top:0px;} 
+
+
+.hplayer-bg {right:0px;}
+
+.jcarousel-skin {width:375px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+}
+
+
+/*
+=======================================================
+
+Responsive Custom CSS END 768 to 979
+
+=======================================================
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+=======================================================
+
+Responsive Custom CSS Start 641 to 767
+
+=======================================================
+*/
+@media only screen and (min-width : 641px) and (max-width : 767px) {
+
+.home_wrapper {
+	width: 480px;
+	margin: 0 auto
+}
+.nav-holder {
+	z-index: 9999;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-top: 10px !important;
+}
+.nav-collapse .nav {
+	width: 190px;
+}
+.nav-collapse .nav > li {
+	background: rgba(0,0,0,0.9)
+}
+#logo img {
+	width: 35%;
+}
+
+.headtabs {
+	clear: both
+}
+.mtop {
+	margin-top: 20px;
+}
+.home_wrapper #header {
+	position: relative
+}
+.slider-curve, .footer_curve, .slider-curve-boxed {
+	display: none
+}
+.topbar-right .news-bg {
+	line-height: 35px;
+}
+.topbar-right .news-bg .news {
+	margin: 0 0 0 20px;
+}
+.topbar-right .news-bg .news-title {
+	width: auto
+}
+.calender-box ul li .frame {
+	margin: 0px;
+	clear: both
+}
+.calender-box ul li .box-03 {
+	width: auto
+}
+.booking-text p {
+	margin-top: 20px
+}
+.booking-slider {
+	margin: 0px;
+}
+.club-timing .cl-image {
+	background: #000
+}
+.club-timing .cl-image, .club-timing .cl-details, .club-timing .cl-details-boxed {
+	float: none;
+	width: auto
+}
+.club-timing .cl-details .more, .club-timing .cl-details-boxed .more, .show-timing-bg .cl-details .more, .show-timing-bg .cl-details-boxed .more {
+	float: none;
+	margin: 0px;
+}
+.club-timing .cl-details .heart-icon, .club-timing .cl-details-boxed .heart-icon {
+	right: 0px;
+	left: auto
+}
+.event-month strong {
+	display: block
+}
+.upcomming-event .ev-img .date {
+	width: auto;
+	padding: 2px;
+}
+.upcomming-event .ev-img {
+	float: none;
+	width: auto;
+	position: relative;
+}
+.upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	float: none;
+	background: #000;
+	width: 98%;
+	padding: 2px;
+	display: block;
+}
+.upcomming-event .ev-details p {
+	word-wrap: break-word;
+}
+div.jp-audio ul.jp-controls {
+	width: 40% !important;
+	margin-top: 20px !important;
+}
+div.jp-audio div.jp-progress {
+	top: 50px
+}
+div.jp-audio div.jp-type-single div.jp-progress {
+	left: 45% !important;
+	width: 50% !important;
+}
+.footer .pull-right, .footer-right .pull-right {
+	float: none !important
+}
+.footer, .footer-light {
+	padding: 5px;
+	background-color: #000
+}
+.ln-title h2, .club-timing .cl-details h2, .club-timing .cl-details-boxed h2, .show-timing-bg .cl-details h2, .show-timing-bg .cl-details-boxed h2, .event-month h2, .event-counter h2 {
+	float: none;
+	text-align: center;
+}
+
+/*About*/
+
+.subpage-title-bg .twitter-updates {display:none}
+
+/*Search*/
+.search .search-holder {max-width:80%}
+.search .search-holder .sb {margin:2px}
+
+/*Blog*/
+.blog-post-title h2 {line-height:25px;}
+.blog-user, .blog-item .blog-user {width:25%}
+.blog-post-text, .blog-post-icons, .blog-item .blog-post-text, .blog-item .blog-post-icons {margin:0px; width:100%}
+
+/*check out*/
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1, .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {display:block; width:100%}
+.woocommerce #payment .terms, .woocommerce-page #payment .terms, .radio, .checkbox {padding:0px !important; text-align:left}
+
+/*Cart*/
+.cart_table_item .product-quantity, .cart-top-bg .product-quantity {display:none}
+
+.sidebar-search .search {width:114px;}
+
+
+/*Cart*/
+.cart_table_item .product-quantity, .cart-top-bg .product-quantity {display:none}
+
+.player-holder, .slide-text {display:none}
+
+.player-holder, .slide-text, .mp_content_wrapper, .hplayer-bg .list, .jplayer_playlist_current, .mp_player div.jp-playlist-player div.jp-playlist li span {display:none}
+
+.mp_player div.jp-playlist, .mp_player div.jp-play-time, .mp_player div.jp-total-time {width:80%;}
+.cs-holder {overflow:hidden; height:200px;}
+.jcarousel-skin {position:relative; z-index:9999;}
+.hplayer-bg {bottom:0px; position:relative; width:100%;}
+.hplayer-bg {height:160px;}
+.mp_player .jp-playlist-player .jp-controls {top:-25px; left:65px}
+.mp_player div.jp-interface {top:-70px;}
+
+
+}
+
+
+
+
+
+
+
+/*
+=======================================================
+
+Responsive Custom CSS Start 480 to 640
+
+=======================================================
+*/
+
+
+@media only screen and (min-width : 481px) and (max-width : 640px) {
+.home_wrapper {
+	width: 80%;
+	margin: 0 auto
+}
+body {
+	overflow-x: hidden;
+}
+.nav-holder {
+	z-index: 9999;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-top: 10px !important;
+}
+.nav-collapse .nav {
+	width: 190px;
+}
+.nav-collapse .nav > li {
+	background: rgba(0,0,0,0.9)
+}
+#logo img {
+	width: 35%;
+}
+.headtabs {
+	clear: both
+}
+.video-slider-wrapper {
+	padding: 0
+}
+.video-container #bx-pager .icon-play-circle {
+	left: 1%;
+	top: 1%;
+}
+.mtop {
+	margin-top: 20px;
+}
+.home_wrapper #header {
+	position: relative
+}
+.topbar-right .news-bg {
+	line-height: 35px;
+}
+.topbar-right .news-bg .news {
+	margin: 0 0 0 20px;
+}
+.topbar-right .news-bg .news-title {
+	width: auto
+}
+.slider-curve, .footer_curve, .slider-curve-boxed {
+	display: none
+}
+.booking-slider {
+	margin-left: 0px;
+}
+.booking-slider .price {
+	margin-left: 20px
+}
+.upcomming-event h3 {
+	font-size: 14px !important;
+}
+.calender-box ul li .frame {
+	margin: 0px;
+	clear: both
+}
+.calender-box ul li .box-03 {
+	width: auto
+}
+.latest-news .ln-title {
+	height: 60px;
+}
+.ln-title h2, .club-timing .cl-details h2, .club-timing .cl-details-boxed h2, .show-timing-bg .cl-details h2, .show-timing-bg .cl-details-boxed h2, .event-month h2, .event-counter h2 {
+	float: none;
+	text-align: center
+}
+.latest-news .social-icons {
+	float: none;
+	margin: 0 auto;
+}
+.latest-news ul.ln-inner li {
+	padding: 5px;
+}
+.ln-inner .ititle {
+	font-size: 18px;
+}
+.ln-inner .stitle {
+	font-size: 12px;
+}
+.ln-hover_info .icon-phone, .ln-hover_info .icon-comments, .ln-hover_info .icon-envelope-alt {
+	margin: 0 10px
+}
+.club-timing .cl-image {
+	background: #000
+}
+.club-timing .cl-image, .club-timing .cl-details {
+	float: none;
+	width: auto
+}
+.club-timing .cl-details .more, .club-timing .cl-details-boxed .more, .show-timing-bg .cl-details .more, .show-timing-bg .cl-details-boxed .more {
+	float: none;
+	margin: 0px;
+}
+.club-timing .cl-details .heart-icon, .club-timing .cl-details-boxed .heart-icon {
+	right: 0px;
+	left: auto
+}
+.event-month strong {
+	display: block
+}
+.upcomming-event .ev-img .date {
+	width: auto;
+	padding: 2px;
+}
+.upcomming-event .ev-img {
+	float: none;
+	width: auto;
+	position: relative;
+}
+.upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	float: none;
+	background: #000;
+	width: 98%;
+	padding: 2px;
+	display: block;
+}
+.upcomming-event .ev-details p {
+	word-wrap: break-word;
+}
+.nav-tabs > li > a {
+	padding: 10px 10px !important
+}
+.footer {
+	padding-bottom: 0px
+}
+.fa-gallery li, .fa-gallery-boxed li {
+	margin: 0px;
+}
+div.jp-audio ul.jp-controls {
+	width: 40% !important;
+	margin-top: 20px !important;
+}
+div.jp-audio div.jp-progress {
+	top: 50px
+}
+div.jp-audio div.jp-type-single div.jp-progress {
+	left: 45% !important;
+	width: 50% !important;
+}
+.booking-img img {
+	width: 100%;
+	display: block
+}
+.footer .pull-right {
+	float: none !important
+}
+.footer, .footer-light, .crbg {
+	padding: 5px;
+	background-color: #000
+}
+.upcomming-event .ev-img .date strong {
+	font-size: 25px;
+}
+.footer .footer-1stleft, .footer-light .footer-1stleft {
+	width: 100%
+}
+.ccards, .f-add, .crbg .cr {
+	text-align: center;
+	font-size: 10px;
+}
+.footer_social.pull-right, .footer-links.pull-right {
+	float: none;
+	text-align: center
+}
+.footer_social .social-icons, .sicons-slider .social-icons, .auth-social .social-icons {
+	margin: 10px auto !important
+}
+
+/*About*/
+
+.subpage-title-bg .twitter-updates {display:none}
+
+
+.top-rj .social-icons {display:none}
+.ser-buy .bx-wrapper .bx-controls-direction a {top:103% !important}
+.top-rj .rj-text {font-size:12px; line-height:18px;}
+.top-rj .rj-image {
+    margin-right: 3%;
+    width: 20%;
+}
+
+/*Search*/
+.search .search-holder {max-width:100%}
+.search .search-holder .sb {margin:2px}
+
+
+/*Album*/
+.tracks-list li {padding:5px; font-size:14px;}
+.tracks-list .btn-t { padding:0 5px}
+.tracks-list li ul li {margin-right:4px;}
+.tracks-list .btn-t {font-size:10px}
+.tracks-list .i {font-size:18px;}
+
+
+/*Blog*/
+.blog-post-title h2 {line-height:25px;}
+.blog-user, .blog-item .blog-user {width:25%}
+.blog-post-text, .blog-post-icons, .blog-item .blog-post-text, .blog-item .blog-post-icons {margin:0px; width:100%}
+
+/*check out*/
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1, .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {display:block; width:100%}
+.woocommerce #payment .terms, .woocommerce-page #payment .terms, .radio, .checkbox {padding:0px !important; text-align:left}
+
+/*Cart*/
+.cart_table_item .product-quantity, .cart-top-bg .product-quantity {display:none}
+
+
+.player-holder, .slide-text, .mp_content_wrapper, .hplayer-bg .list, .jplayer_playlist_current, .mp_player div.jp-playlist-player div.jp-playlist li span {display:none}
+
+.player-holder, .slide-text, .mp_content_wrapper, .hplayer-bg .list, .jplayer_playlist_current, .mp_player div.jp-playlist-player div.jp-playlist li span {display:none}
+
+.mp_player div.jp-playlist, .mp_player div.jp-play-time, .mp_player div.jp-total-time {width:80%;}
+.cs-holder {overflow:hidden; height:200px;}
+.jcarousel-skin {position:relative; z-index:9999;}
+.hplayer-bg {bottom:0px; position:relative; width:100%;}
+.hplayer-bg {height:160px;}
+.mp_player .jp-playlist-player .jp-controls {top:-25px; left:65px}
+.mp_player div.jp-interface {top:-70px;}
+
+.hplayer-bg {width:260px; margin:0 auto}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+=======================================================
+
+Responsive Custom CSS Start 320 to 480
+
+=======================================================
+*/
+
+@media only screen and (max-width : 480px) {
+#logo img {
+	width: 35% !important
+}
+.booking-slider .bx-wrapper {
+	text-align: center
+}
+.booking-slider .price {
+	margin-left: 96px !important;
+}
+.event-month img {
+	width: 100%
+}
+.footer-top {
+	padding: 5%
+}
+.latest-news ul.ln-inner li {
+	padding: 10px;
+}
+
+.ev-img .slide-caption {height:117px !important; padding-top:40px !important;}
+
+.hplayer-bg {width:260px; margin:0 auto} 
+.pbg_ping .music-player .jp-title ul {padding:0px; margin:0px}
+
+
+
+
+}
+ @media only screen and (min-width : 320px) and (max-width : 480px) {
+body {
+	overflow-x: hidden;
+}
+.tracks-album li {
+	margin-right: 1px;
+}
+.tracks-album li strong {
+	font-size: 11px;
+}
+.subpage-title-bg span, .twitter-updates {
+	display: none
+}
+.nav-holder {
+	z-index: 9999;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-top: 10px !important;
+}
+.nav-collapse .nav {
+	width: 190px;
+}
+.nav-collapse .nav > li {
+	background: rgba(0,0,0,0.9)
+}
+#logo img {
+	width: 50%;
+}
+.headtabs {
+	clear: both
+}
+.video-slider-wrapper {
+	padding: 0
+}
+.video-container #bx-pager .icon-play-circle {
+	left: 1%;
+	top: 1%;
+}
+.mtop {
+	margin-top: 20px;
+}
+.home_wrapper #header {
+	position: relative
+}
+.topbar-right .news-bg {
+	line-height: 35px;
+}
+.topbar-right .news-bg .news {
+	margin: 0 0 0 20px;
+}
+.topbar-right .news-bg .news-title {
+	width: auto
+}
+.slider-curve, .footer_curve, .slider-curve-boxed {
+	display: none
+}
+.booking-slider {
+	margin-left: 0px;
+}
+.booking-slider .price {
+	margin-left: 20px
+}
+.upcomming-event h3 {
+	font-size: 14px !important;
+}
+
+.ev-img .slide-caption {height:74px; padding-top:20px;}
+
+.calender-box ul li .frame {
+	margin: 0px;
+	clear: both
+}
+.calender-box ul li .box-03 {
+	width: auto
+}
+.latest-news .ln-title {
+	height: 60px;
+}
+.ln-title h2, .club-timing .cl-details h2, .club-timing .cl-details-boxed h2, .show-timing-bg .cl-details h2, .show-timing-bg .cl-details-boxed h2, .event-month h2, .event-counter h2 {
+	float: none;
+	text-align: center
+}
+.latest-news .social-icons {
+	float: none;
+	margin: 0 auto;
+}
+.latest-news ul.ln-inner li {
+	padding: 5px;
+}
+.ln-inner .ititle {
+	font-size: 18px;
+}
+.ln-inner .stitle {
+	font-size: 12px;
+}
+.ln-hover_info .icon-phone, .ln-hover_info .icon-comments, .ln-hover_info .icon-envelope-alt {
+	margin: 0 10px
+}
+.club-timing .cl-image {
+	background: #000
+}
+.club-timing .cl-image, .club-timing .cl-details {
+	float: none;
+	width: auto
+}
+.club-timing .cl-details .more, .club-timing .cl-details-boxed .more, .show-timing-bg .cl-details .more, .show-timing-bg .cl-details-boxed .more {
+	float: none;
+	margin: 0px;
+}
+.club-timing .cl-details .heart-icon, .club-timing .cl-details-boxed .heart-icon {
+	right: 0px;
+	left: auto
+}
+.event-month strong {
+	display: block
+}
+.upcomming-event .ev-img .date {
+	width: auto;
+	padding: 2px;
+}
+.upcomming-event .ev-img {
+	float: none;
+	width: auto;
+	position: relative;
+}
+.upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	float: none;
+	background: #000;
+	width: 98%;
+	padding: 2px;
+	display: block;
+}
+.upcomming-event .ev-details p {
+	word-wrap: break-word;
+}
+.nav-tabs > li > a {
+	padding: 10px 10px !important
+}
+.footer {
+	padding-bottom: 0px
+}
+.fa-gallery li, .fa-gallery-boxed li {
+	margin: 0px;
+}
+div.jp-audio ul.jp-controls {
+	width: 40% !important;
+	margin-top: 20px !important;
+}
+div.jp-audio div.jp-progress {
+	top: 50px
+}
+div.jp-audio div.jp-type-single div.jp-progress {
+	left: 45% !important;
+	width: 50% !important;
+}
+.booking-img img {
+	width: 100%;
+	display: block
+}
+.footer .pull-right {
+	float: none !important
+}
+.footer, .footer-light, .crbg {
+	padding: 5px;
+	background-color: #000
+}
+.upcomming-event .ev-img .date strong {
+	font-size: 25px;
+}
+.footer .footer-1stleft, .footer-light .footer-1stleft {
+	width: 100%
+}
+.ccards, .f-add, .crbg .cr {
+	text-align: center;
+	font-size: 10px;
+}
+.footer_social.pull-right, .footer-links.pull-right {
+	float: none;
+	text-align: center
+}
+.footer_social .social-icons, .sicons-slider .social-icons, .auth-social .social-icons {
+	margin: 10px auto !important
+}
+
+
+
+/*About*/
+.about-events li {display:block; height:74px; margin-bottom:10px;}
+.rj-bg .social-icons {display:none}
+.about-rj .rj-bg { margin-bottom:10px;}
+.about-rj h4 {line-height:8px}
+
+.sidebar-search .search {width:166px;}
+
+.title-holder {margin-top:85px;}
+
+/*Album*/
+.tracks-list li {padding:5px; font-size:10px;}
+.tracks-list .btn-t { padding:0 2px}
+.tracks-list li ul li {margin-right:4px;}
+.tracks-list .btn-t {font-size:10px}
+.tracks-list .i {font-size:12px;}
+
+/*Services*/
+.top-rj .social-icons {display:none}
+.ser-buy .bx-wrapper .bx-controls-direction a {top:103% !important}
+.top-rj .rj-text {font-size:10px; line-height:15px;}
+.top-rj .rj-image {
+    margin-right: 3%;
+    width: 20%;
+}
+
+/*Fan Review*/
+.fan-reviews .fan-intro .right {width:25% !important}
+.fan-reviews .fan-intro .left  {width:75%}
+.fan-reviews h3 { font-size:14px}
+.fan-reviews .fan-intro .left {margin-top:10px;}
+.fan-reviews .fan-user, .fan-reviews .fan-title {margin:0px;}
+
+/*Search*/
+.search .search-holder {max-width:100%}
+.search .search-holder .sb {margin:2px}
+
+.p404 h2 {font-size:100pt}
+
+/*Event*/
+.events-wrapper .events #defaultCountdown {margin-right:0px; width:235px;}
+
+
+/*Blog*/
+.blog-post-title h2 {line-height:25px;}
+.blog-user, .blog-item .blog-user {width:25%}
+.blog-post-text, .blog-post-icons, .blog-item .blog-post-text, .blog-item .blog-post-icons {margin:0px; width:100%}
+
+.blog-post-icons li {margin-right:7px}
+
+/*check out*/
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1, .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {display:block; width:100%}
+.woocommerce #payment .terms, .woocommerce-page #payment .terms, .radio, .checkbox {padding:0px !important; text-align:left}
+
+/*Cart*/
+.cart_table_item .img, .cart-top-bg .product-price, .cart_table_item .product-price, .cart_table_item .product-quantity, .cart-top-bg .product-quantity {display:none}
+
+.player-holder, .slide-text, .mp_content_wrapper, .hplayer-bg .list, .jplayer_playlist_current, .mp_player div.jp-playlist-player div.jp-playlist li span {display:none}
+
+.mp_player div.jp-playlist, .mp_player div.jp-play-time, .mp_player div.jp-total-time {width:80%;}
+.cs-holder {overflow:hidden; height:200px;}
+.jcarousel-skin {position:relative; z-index:9999;}
+.hplayer-bg {bottom:0px; position:relative; width:100%;}
+.hplayer-bg {height:160px;}
+.mp_player .jp-playlist-player .jp-controls {top:-25px; left:65px}
+.mp_player div.jp-interface {top:-70px;}
+
+.pbg_ping .music-player .jp-title ul {padding:0px; margin:0px}
+
+
+}

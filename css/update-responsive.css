@@ -1,0 +1,420 @@
+/**********************************************RESPONSIVE 480 START**********************************************/
+@media (max-width: 480px) {
+.home_wrapper #header {
+	position: relative;
+	z-index: 99999;
+}
+.mp-toggle {
+	position: relative;
+	z-index: 999999;
+}
+.mtop1 {
+	margin-top: 10px;
+}
+.ln-events-information h2 {
+	margin-bottom: 20px;
+	font-size: 16px !important;
+}
+.ln-events-information .image-bottom, .ab-re .image-bottom, .latest-news .ln-title, .latest-news {
+	margin-bottom: 20px;
+}
+.fans-scroll {
+	margin: 0;
+}
+.booking-text {
+	overflow: hidden;
+	clear: both;
+}
+.booking-text h2, .booking-text h3 {
+	font-size: 23px;
+	line-height: 30px;
+}
+.ln-holder, .ccards, .f-add, .crbg .cr, .footer h2, .footer-light h2 {
+	margin-bottom: 10px;
+}
+.upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	width: 100%;
+	padding: 5px 10px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.footer .location, .footer-light .location {
+	height: auto;
+	overflow: hidden;
+	background-size: cover;
+	margin-bottom: 20px;
+}
+.footer .location .lc-left, .footer-light .location .lc-left {
+	width: auto;
+	float: none;
+	padding: 0 0 10px 0;
+}
+.booking-img, .cl-image > img {
+	width: 100%;
+}
+.footer .location .lc-right, .footer-light .location .lc-right {
+	margin: 0;
+	float: none;
+}
+.album-main-image {
+	height: auto;
+	padding: 100px 0;
+}
+.subpage-title-bg h2 {
+	padding: 0 0 0 10px;
+}
+.p404 {
+	margin-bottom: 20px;
+}
+.album-details p img {
+	width: 100%;
+}
+.side-banner > img {
+	width: 100%;
+}
+.contact #form_contact input[type="text"] {
+	width: 100%;
+	height: 40px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.contact #form_contact textarea {
+	width: 100%;
+	resize: none;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.events .span2 img, .events-wrapper .events .evnt-title {
+	width: 100%;
+}
+.ev-head .pull-right {
+	float: left;
+	width: 100%;
+}
+.events .span3 img {
+	width: 100%;
+}
+.faqs .accordion-heading a {
+	font-size: 13px;
+}
+.gallery-nav {
+	display: block;
+	text-align: center;
+}
+.gallery-nav li {
+	float: none;
+	display: inline-block;
+}
+.gallery-nav li a {
+	margin-bottom: 10px;
+}
+.p-bottom {
+	margin-bottom: 20px;
+}
+.portfolio-area li {
+	margin: 0 0 20px 0 !important;
+	width: 100% !important;
+}
+.portfolio-area {
+	margin: 0 !important;
+}
+.main-dj-slider .bx-wrapper .bx-pager {
+	right: inherit;
+	width: 100%;
+	bottom: 0;
+}
+.main-slider .bx-wrapper .bx-controls-direction a, .slider-wrapper-simple .main-slider .bx-wrapper .bx-controls-direction a {
+	top: inherit !important;
+	bottom: 0;
+}
+.slider-wrapper-simple {
+	height: 300px;
+}
+.subpage-title-bg h2 {
+	font-size: 22px;
+}
+.reservation {
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.comment-form .form-list {
+	width: 100%;
+}
+.comment-form select {
+	width: 100%;
+}
+.reservation #form_contact input[type="text"] {
+	height: 40px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.comment-form .form-list textarea {
+	width: 100%;
+	resize: none;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+}
+/**********************************************RESPONSIVE 480 END**********************************************/
+
+/**********************************************RESPONSIVE 767 START**********************************************/
+@media (max-width: 767px) {
+.home_wrapper {
+	width: auto;
+}
+.home_wrapper #header {
+	position: relative;
+	z-index: 99999;
+}
+.mtop1 {
+	margin: 10px 0 0 0;
+}
+.ln-events-information h2, .footer h2, .footer-light h2, .ccards, .f-add, .crbg .cr {
+	margin: 0 0 10px 0;
+}
+.ln-events-information .image-bottom, .ab-re .image-bottom, .latest-news .ln-title, .ln-holder {
+	margin-bottom: 20px;
+}
+.fans-scroll {
+	margin: 0;
+}
+.booking-img {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+.cl-image > img, .ev-img > img, .event-month > img, .upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	width: 100%;
+}
+.upcomming-event .ev-details, .club-timing .cl-details-boxed {
+	padding: 5px 10px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.footer-top {
+	padding: 30px 10px 0 10px;
+}
+.footer .location .lc-left, .footer-light .location .lc-left {
+	width: auto;
+	float: none;
+	text-align: center;
+}
+.footer .location .lc-right, .footer-light .location .lc-right {
+	margin: 0;
+	float: none;
+	display: block;
+}
+.footer .location, .footer-light .location {
+	height: auto;
+	background-size: cover;
+	margin: 0 0 20px 0;
+}
+.album-main-image {
+	height: auto;
+	padding: 100px 0;
+}
+.subpage-title-bg h2 {
+	padding: 0 0 0 10px;
+}
+.p404 {
+	margin: 0 0 20px 0;
+}
+.cs-image, .cs-image img, .about-text img {
+	width: 100%;
+}
+.album-details p img {
+	width: 100%;
+}
+.title-holder {
+	overflow: hidden;
+	clear: both;
+	margin: 20px 0 0 0;
+	float: left;
+	width: 100%;
+}
+.sidebar-search .search {
+	width: 100%;
+	height: 60px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.sidebar-search form {
+	position: relative;
+}
+.sidebar-search .search-button {
+	position: absolute;
+	right: 0;
+	top: 0;
+	left: inherit;
+}
+.contact #form_contact input[type="text"] {
+	width: 100%;
+	height: 40px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.contact #form_contact textarea {
+	width: 100%;
+	resize: none;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.events .span2 img, .events-wrapper .events .evnt-title, #defaultCountdown-1, #defaultCountdown-2, #defaultCountdown-3, #defaultCountdown-4 {
+	width: 100%;
+}
+.ev-head .pull-right {
+	float: left;
+	width: 100%;
+}
+.events .span3 img {
+	width: 100%;
+}
+.col-2 li {
+	width: 100% !important;
+	margin: 0 0 20px 0 !important;
+}
+.portfolio-area {
+	margin: 0 !important;
+}
+.main-dj-slider .bx-wrapper .bx-pager {
+	right: inherit;
+	width: 100%;
+	bottom: 0;
+}
+.main-slider .bx-wrapper .bx-controls-direction a, .slider-wrapper-simple .main-slider .bx-wrapper .bx-controls-direction a {
+	top: inherit !important;
+	bottom: 0;
+}
+.slider-wrapper-simple {
+	height: 405px;
+}
+.reservation {
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.comment-form .form-list {
+	width: 100%;
+}
+.comment-form select {
+	width: 100%;
+}
+.reservation #form_contact input[type="text"] {
+	height: 40px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.comment-form .form-list textarea {
+	width: 100%;
+	resize: none;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+}
+/**********************************************RESPONSIVE 767 END**********************************************/
+
+/**********************************************RESPONSIVE 768 and 979 START**********************************************/
+@media (min-width: 768px) and (max-width: 979px) {
+.home_wrapper #header {
+	position: relative;
+	z-index: 99999;
+}
+.mp-toggle {
+	position: relative;
+	z-index: 99999;
+}
+.acc_container .img {
+	margin: 0;
+	width: 100%;
+}
+.acc_container .img img {
+	width: 100%;
+}
+.footer h2, .footer-light h2 {
+	font-size: 20px;
+	margin: 0 0 10px 0;
+}
+.footer .location .lc-left, .footer-light .location .lc-left {
+	font-size: 22px;
+	margin: 0 0 10px 0;
+}
+.footer .location .lc-right, .footer-light .location .lc-right {
+	float: none;
+	display: block;
+	margin: 0;
+}
+.album-main-image {
+	height: auto;
+	padding: 100px 0;
+}
+.ab-logo {
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+.contact #form_contact input[type="text"] {
+	width: 100%;
+	height: 40px;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.contact #form_contact textarea {
+	width: 100%;
+	resize: none;
+	-webkit-box-sizing: border-box; /* Safari 3.0 - 5.0, Chrome 1 - 9, Android 2.1 - 3.x */
+	-moz-box-sizing: border-box;    /* Firefox 1 - 28 */
+	box-sizing: border-box;         /* Safari 5.1+, Chrome 10+, Firefox 29+, Opera 7+, IE 8+, Android 4.0+, iOS any */
+}
+.col-2 li {
+	width: 100% !important;
+	margin: 0 0 20px 0 !important;
+}
+.portfolio-area {
+	margin: 0 !important;
+}
+.main-dj-slider .bx-wrapper .bx-pager {
+	right: inherit;
+	width: 100%;
+	bottom: 0;
+}
+.main-slider .bx-wrapper .bx-controls-direction a, .slider-wrapper-simple .main-slider .bx-wrapper .bx-controls-direction a {
+	top: inherit !important;
+	bottom: 0;
+}
+.slider-wrapper-simple {
+	height: 500px;
+}
+}
+/**********************************************RESPONSIVE 768 and 979 END**********************************************/
+
+/**********************************************RESPONSIVE 1200 START**********************************************/
+@media (min-width: 1200px) {
+.club-timing .cl-image {
+	width: 46%;
+}
+.club-timing .cl-image img {
+	width: auto;
+}
+.club-timing .cl-details {
+	width: 48%;
+}
+.upcomming-event .ev-img {
+	width: 40%;
+}
+.upcomming-event .ev-img img {
+	width: auto;
+}
+.upcomming-event .ev-details {
+	width: 47%;
+}
+}
+/**********************************************RESPONSIVE 1200 END**********************************************/
